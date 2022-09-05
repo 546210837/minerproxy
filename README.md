@@ -4,4 +4,4 @@
 
 一键安装升级命令
 
-bash <(curl -s -L https://raw.githubusercontent.com/546210837/minerProxy/main/allminer.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/God-ks/minerProxy/main/allminer.sh)
